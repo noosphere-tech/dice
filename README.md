@@ -14,10 +14,16 @@ Q1  Easing it's a process of making a sprite movement smooth so that it appears 
     b. easing can be used on sprite, camera etc..
 
 Q2  
+simple, object oriented,platform independent, distributed,secure, allocation,multithreading
+
+performence, look and feel,single paradign language,memory
+
+calling back function
+
 
 
 Q3 painting , 
-          ex: ##
+          ex:
           
 1!!!Q4. observer design : relationship between objects, it is arelationship of one to many .
                         ex: online course once the update is made the notification is sent to suscribers automaticaly.
@@ -26,8 +32,8 @@ Q3 painting ,
     let take for instance data being retrieved from the bank an another being deposited, that process can cause disturbance 
     if singleton pattern is used it help to work on a single copy of an object and have the actual updated result 
     #
-     adapter Pattern:
-     
+     adapter Pattern: that allows the interface of an existing class to be used as another interface
+            
      
 Q5
     Redux:predictable container of javascript application, it helps the developer to see the entire statee of the web app,it
@@ -45,7 +51,8 @@ Q5
              
     Q7. 
         
-          diference between time based and frame based in animation 
+            time based: Player speed is set in angles per frame .
+          frame base :  need 360 frames to travel from one pont to another in a circular motion for instance .
           
           
     Q8
